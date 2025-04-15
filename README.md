@@ -22,7 +22,7 @@ This is a responsive note-taking application built using **React** and **Tailwin
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pun7dam/Note-Taking-App.git
    
 2. Navigate to the project directory:
 
